@@ -34,15 +34,34 @@ Estou cursando Ciências Econômicas com previsão de formação em **junho/2026
 </div>
 
 
----------------------
-#### Cursos Alura
+--------
+### Cursos Alura
 
 | Cursos | Certificados |
 | - | - |
-| Formação JavaScript | ![Certificado](https://cursos.alura.com.br/user/brunoandrade77/degree-javascript-front-end-v374365-374365/certificate) |
-| Formação JavaScript Back-end | ![Certificado](https://cursos.alura.com.br/user/brunoandrade77/degree-js-backend-v210587-210587/certificate) |
-| Formação Python | ![Certificado](https://cursos.alura.com.br/user/brunoandrade77/degree-linguagem-python-v597955-597955/certificate) |
-| Formação Java | ![Certificado](https://cursos.alura.com.br/user/brunoandrade77/degree-java-568827/certificate) |
-| Curso Azure Cloud | ![Certificado](https://cursos.alura.com.br/user/brunoandrade77/course/azure-cloud-criando-servidor-banco-dados-receber-aplicacao/certificate) |
-| Curso SQL Server | ![Certificado](https://cursos.alura.com.br/user/brunoandrade77/course/microsoft-sql-server-2022-conhecendo-sql/certificate) |
-| Curso React | ![Certificado 1](https://cursos.alura.com.br/user/brunoandrade77/course/react-componentes-funcionam/certificate) ![Certificado 2](https://cursos.alura.com.br/user/brunoandrade77/course/react-desenvolvendo-javascript/certificate) |
+| Formação Java | [Certificado](https://cursos.alura.com.br/user/brunoandrade77/degree-java-568827/certificate) |
+| Formação JavaScript | [Certificado](https://cursos.alura.com.br/user/brunoandrade77/degree-javascript-front-end-v374365-374365/certificate) |
+| Formação JavaScript Back-end | [Certificado](https://cursos.alura.com.br/user/brunoandrade77/degree-js-backend-v210587-210587/certificate) |
+| Curso React | [Certificado 1](https://cursos.alura.com.br/user/brunoandrade77/course/react-componentes-funcionam/certificate)
+| Formação Python | [Certificado](https://cursos.alura.com.br/user/brunoandrade77/degree-linguagem-python-v597955-597955/certificate) |
+| Curso Azure Cloud | [Certificado](https://cursos.alura.com.br/user/brunoandrade77/course/azure-cloud-criando-servidor-banco-dados-receber-aplicacao/certificate) |
+| Curso SQL Server | [Certificado](https://cursos.alura.com.br/user/brunoandrade77/course/microsoft-sql-server-2022-conhecendo-sql/certificate) |
+[Certificado 2](https://cursos.alura.com.br/user/brunoandrade77/course/react-desenvolvendo-javascript/certificate) |
+
+
+### Cursos Asimov Academy
+
+| Cursos | Certificados |
+| - | - |
+| Análise e Visualização de Dados | [Certificado](https://hub.asimov.academy/validar-certificado/a4db46cb-b721-47a3-bf21-f6e04f15244c) |
+| Fundamentos de AI e Machine Learning | [Certificado](https://hub.asimov.academy/validar-certificado/8dac8675-8f2e-4dd1-86c0-306eae965920) |
+| PostgreSQL e pgAdmin | [Certificado](https://hub.asimov.academy/validar-certificado/bd116bf0-fe3b-481a-949b-ec38ef709e21) |
+
+
+### Cursos DIO
+
+| Cursos | Certificados |
+| - | - |
+| Formação GitHub | [Em andamento]() |
+| Formação Ruby Developer | [Em andamento]() |
+| Formação AWS Cloud Practitioner Certification | [Em andamento]() |
