@@ -4,8 +4,8 @@
 
 Me chamo **Bruno Andrade**,
 
-Atualmente atuo em **Processos e Automações** voltado ao **Mercado Financeiro**,
-mas estou em busca de alguma oportunidade na área de **Back-End** ou **FullStack**.
+Atualmente atuo na área de **Processos e Automações** voltado ao **Mercado Financeiro**,<br>
+estou em busca de alguma oportunidade na área de **Back-End** ou **FullStack**.
 
-Atualmente estou estudando e buscando proficiência em **Java** para atuar no mercado
-financeiro na área Tech.
+Atualmente estou estudando e buscando proficiência em **Java** para atuar na área Tech<br>
+do mercado financeiro.
