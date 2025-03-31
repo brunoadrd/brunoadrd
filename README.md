@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Rick Hacking]()
+![Rick Hacking](https://github.com/brunoadrd/brunoadrd/blob/main/hacking-rick.gif)
 
 <!--
 **brunoadrd/brunoadrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
