@@ -40,12 +40,13 @@ Estou cursando Ciências Econômicas com previsão de formação em **junho/2026
 
 ## Main Projects
 
-[Projeto Java](https://github.com/brunoadrd/screenmatch-spring)
-[Projeto JavaScript](https://github.com/brunoadrd/moni-bank)
-[Projeto React](https://github.com/brunoadrd/Organo/)
+<div>
+    [Projeto Java](https://github.com/brunoadrd/screenmatch-spring)
+    [Projeto JavaScript](https://github.com/brunoadrd/moni-bank)
+    [Projeto React](https://github.com/brunoadrd/Organo/)
+</div>
 
---------
-
+![Main Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoadrd&layout=compact&langs_count=5&theme=midnight-purple)
 ![Bruno Andrade GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoadrd&show_icons=true&theme=midnight-purple)
 
 --------
