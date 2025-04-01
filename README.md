@@ -23,7 +23,6 @@ Estou cursando Ciências Econômicas com previsão de formação em **junho/2026
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
 </div>
@@ -37,6 +36,17 @@ Estou cursando Ciências Econômicas com previsão de formação em **junho/2026
     
 </div>
 
+----
+
+## Main Projects
+
+[Projeto Java](https://github.com/brunoadrd/screenmatch-spring)
+[Projeto JavaScript](https://github.com/brunoadrd/moni-bank)
+[Projeto React](https://github.com/brunoadrd/Organo/)
+
+--------
+
+![Bruno Andrade GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoadrd&show_icons=true&theme=midnight-purple)
 
 --------
 ### Cursos Alura
