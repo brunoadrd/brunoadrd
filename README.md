@@ -47,8 +47,8 @@ Estou cursando Ciências Econômicas com previsão de formação em **junho/2026
 [Projeto React](https://github.com/brunoadrd/Organo/)
 
 
-![Main Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoadrd&layout=compact&langs_count=5&theme=midnight-purple)
-![Bruno Andrade GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoadrd&show_icons=true&theme=midnight-purple)
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoadrd&layout=compact&langs_count=5&theme=midnight-purple" />
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoadrd&show_icons=true&theme=midnight-purple" />
 
 --------
 ### Cursos Alura
