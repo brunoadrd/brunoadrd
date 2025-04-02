@@ -47,6 +47,13 @@ Estou cursando Ciências Econômicas com previsão de formação em **junho/2026
 
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoadrd&layout=compact&langs_count=5&theme=midnight-purple" /><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoadrd&show_icons=true&theme=midnight-purple" />
 
+## Contatos:
+
+<div>
+    <a href = "mailto:brunoandrade77@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/brunoandrade77" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 --------
 ### Cursos Alura
 
@@ -60,6 +67,7 @@ Estou cursando Ciências Econômicas com previsão de formação em **junho/2026
 | Formação Python | [Certificado](https://cursos.alura.com.br/user/brunoandrade77/degree-linguagem-python-v597955-597955/certificate) |
 | Curso Azure Cloud | [Certificado](https://cursos.alura.com.br/user/brunoandrade77/course/azure-cloud-criando-servidor-banco-dados-receber-aplicacao/certificate) |
 | Curso SQL Server | [Certificado](https://cursos.alura.com.br/user/brunoandrade77/course/microsoft-sql-server-2022-conhecendo-sql/certificate) |
+| Curso Git e GitHub | [Certificado](https://cursos.alura.com.br/user/brunoandrade77/course/git-github-compartilhando-colaborando-projetos/certificate) |
 
 
 ### Cursos Asimov Academy
@@ -75,6 +83,6 @@ Estou cursando Ciências Econômicas com previsão de formação em **junho/2026
 
 | Cursos | Certificados |
 | - | - |
-| Formação GitHub | [Em andamento]() |
+| Formação GitHub | [Certificado](https://hermes.dio.me/certificates/OBCQ2VRB.pdf) |
 | Formação Ruby Developer | [Em andamento]() |
 | Formação AWS Cloud Practitioner Certification | [Em andamento]() |
