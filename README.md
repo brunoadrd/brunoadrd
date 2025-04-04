@@ -40,9 +40,9 @@ Estou cursando Ciências Econômicas com previsão de formação em **junho/2026
 
 ## Main Projects
 
-- [Projeto Java](https://github.com/brunoadrd/screenmatch-spring)
-- [Projeto JavaScript](https://github.com/brunoadrd/moni-bank)
-- [Projeto React](https://github.com/brunoadrd/Organo/)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=brunoadrd&repo=screenmatch-spring&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/brunoadrd/screenmatch-spring)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=brunoadrd&repo=Organo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/brunoadrd/Organo/)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=brunoadrd&repo=moni-bank&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/brunoadrd/moni-bank)
 
 
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoadrd&layout=compact&langs_count=5&theme=midnight-purple" /><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoadrd&show_icons=true&theme=midnight-purple" />
